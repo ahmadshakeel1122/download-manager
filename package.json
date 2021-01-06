@@ -164,7 +164,7 @@
   "dependencies": {
     "@panter/vue-i18next": "^0.15.0",
     "aria2": "^4.0.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "blob-util": "^2.0.2",
     "clipboard-polyfill": "^2.8.0",
     "electron-debug": "^2.2.0",
